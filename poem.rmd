@@ -17,6 +17,12 @@ you, if you change any of this the git program will notice it and compromise you
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
 ## Second Verse
+Some say the world will end in fire,  
+Some say in ice.  
+From what I’ve tasted of desire  
+I hold with those who favour fire.  
+But if it had to perish twice,	
+
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
 ## Third Verse
